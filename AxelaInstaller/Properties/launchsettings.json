@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "AxelaInstaller (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "AxelaInstaller (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
